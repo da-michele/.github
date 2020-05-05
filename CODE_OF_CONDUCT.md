@@ -7,17 +7,9 @@
 * [Enforcement](#enforcement)
 * [Enforcement guidelines](#enforcement-guidelines)
     * [Correction](#correction)
-        * Community impact
-        * Consequence
     * [Warning](#warning)
-        * Community impact
-        * Consequence
     * [Temporary ban](#temporary-ban)
-        * Community impact
-        * Consequence
     * [Permanent ban](#permanent-ban)
-        * Community impact
-        * Consequence
 * [Attribution](#attribution)
 
 ## Our Pledge

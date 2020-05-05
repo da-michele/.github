@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contact Da Michele
+    url: https://www.da-michele.com
+    about: Please use our website to look up our contact details.
+  - name: Da Michele Security Policy
+    url: https://github.com/da-michele/.github/security/policy
+    about: For security related reports please refer to our security policy.

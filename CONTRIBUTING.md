@@ -6,8 +6,8 @@
 
 <https://github.com/da-michele/.github>
 
-### Website source code
+### Website
 
-> for building our website <https://www.da-michele.com>
-
-<https://github.com/da-michele/da-michele.com>
+* source files: <https://github.com/da-michele/da-michele.com>
+    * continuous-delivery output: <https://da-michele.github.io/da-michele.com/>
+* website: <https://da-michele.com>

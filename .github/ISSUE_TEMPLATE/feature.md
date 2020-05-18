@@ -1,6 +1,11 @@
 ---
 name: 🚀 Feature Proposal
 about: Submit a proposal for a new feature
+labels:
+  - 'info: contribution-welcome'
+  - 'status: triage'
+assignees:
+  - Vinci2020
 ---
 
 # 🚀 Feature Proposal

@@ -1,6 +1,11 @@
 ---
 name: 💥 Regression Report
 about: Report unexpected behavior that worked in previous versions
+labels:
+  - 'info: contribution-welcome'
+  - 'status: triage'
+assignees:
+  - Vinci2020
 ---
 
 # 💥 Regression Report

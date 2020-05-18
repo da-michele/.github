@@ -1,6 +1,11 @@
 ---
 name: 🐛 Bug report
 about: Create a report to help us improve
+labels:
+  - 'info: contribution-welcome'
+  - 'status: triage'
+assignees:
+  - Vinci2020
 ---
 
 # 🐛 Bug Report

@@ -1,0 +1,40 @@
+name: Feature Proposal
+description: Submit a proposal for a new feature
+labels:
+  - 'info: contribution-welcome'
+  - 'status: triage'
+assignees:
+  - Vinci2020
+body:
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the feature
+      description: A clear and concise description of what the feature is.
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Your motivation
+      description: Please outline the motivation for the proposal.
+    validations:
+      required: true
+
+  - type: textarea
+    id: example
+    attributes:
+      label: Give an example
+      description: Please provide an example for how this feature would be used.
+    validations:
+      required: true
+
+  - type: textarea
+    id: pitch
+    attributes:
+      label: Give us an elevator pitch
+      description: Why does this feature belong in this project?
+    validations:
+      required: true

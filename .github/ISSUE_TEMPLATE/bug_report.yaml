@@ -1,0 +1,47 @@
+name: Bug report
+description: Create a report to help us improve
+labels:
+  - 'info: contribution-welcome'
+  - 'status: triage'
+assignees:
+  - Vinci2020
+body:
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of the bug.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: Reproduction steps
+      description: Please list steps to reproduce the behavior here.
+      placeholder: |
+        1. Step one
+        2. Step two
+        3. Step three
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: log-output
+    attributes:
+      label: Log output
+      description: Paste the results here.
+      placeholder: |
+        $ ...
+      render: bash
+    validations:
+      required: true
